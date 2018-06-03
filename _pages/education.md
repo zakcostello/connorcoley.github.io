@@ -23,7 +23,7 @@ B.S. Chemical Engineering, <em>California Institute of Technology</em><br>
 </td></tr>
 
 
-	<tr><td colspan="2"><small>*not yet! Official graduatation likely June 2019</small></td></tr>
+	<tr><td colspan="2"><small>*not yet! Official graduation likely June 2019</small></td></tr>
 </table>
 
 
