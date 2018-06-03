@@ -19,4 +19,4 @@ I've recently been focused on identifying questions in chemistry and cheminforma
 
 Non-Research Interests
 ======
-In my spare time, I like to cook, garden, and try to learn Portuguese.
+In my spare time, I like to cook, garden, and try to learn Portuguese. I like traveling and long walks/hikes.
