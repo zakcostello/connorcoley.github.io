@@ -8,6 +8,11 @@ author_profile: true
 <table>
   
   <tr><th>2018</th><td>
+DARPA Riser<br>
+<em>One of 50 researchers selected by DARPA as &ldquo;up-and-coming standouts in their fields, capable of discovering and leveraging innovative opportunities for technological surprise&rdquo;</em>
+  </td></tr>
+  
+  <tr><th>2018</th><td>
 Outstanding Student Seminar, Department of Chemical Engineering, MIT<br>
 <em>Given to two PhD students annually based on peer-rated research talks</em>
   </td></tr>
