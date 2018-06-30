@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<em>If you do not have journal access for one of the papers below, send me an email and I will gladly provide a copy of the manuscript.</em>
+
 <table>
   
   <tr><th>2018</th><td>
