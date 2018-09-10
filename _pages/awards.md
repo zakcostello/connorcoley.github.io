@@ -9,12 +9,14 @@ author_profile: true
   
     <tr><th>2018</th><td>
 C&amp;EN Talented 12<br>
-<em>One of 12 researchers highlighted by Chemical and Engineering News as future leaders in the chemical sciences</em>
+<em>One of 12 researchers highlighted by Chemical and Engineering News as future leaders in the chemical sciences</em><br>
+<a href="https://cen.acs.org/articles/96/i33/Connor-Coley.html" target="_blank">Link</a>
   </td></tr>
   
   <tr><th>2018</th><td>
 DARPA Riser<br>
-<em>One of 50 researchers selected by DARPA as &ldquo;up-and-coming standouts in their fields, capable of discovering and leveraging innovative opportunities for technological surprise&rdquo;</em>
+<em>One of 50 researchers selected by DARPA as &ldquo;up-and-coming standouts in their fields, capable of discovering and leveraging innovative opportunities for technological surprise&rdquo;</em><br>
+<a href="http://news.mit.edu/2018/mit-graduate-student-connor-coley-named-darpa-riser-0716" target="_blank">Link</a>
   </td></tr>
   
   <tr><th>2018</th><td>
