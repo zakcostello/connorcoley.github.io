@@ -7,6 +7,11 @@ author_profile: true
 
 <table>
   
+    <tr><th>2018</th><td>
+C&amp;EN Talented 12<br>
+<em>One of 12 researchers highlighted by Chemical and Engineering News as future leaders in the chemical sciences</em>
+  </td></tr>
+  
   <tr><th>2018</th><td>
 DARPA Riser<br>
 <em>One of 50 researchers selected by DARPA as &ldquo;up-and-coming standouts in their fields, capable of discovering and leveraging innovative opportunities for technological surprise&rdquo;</em>
