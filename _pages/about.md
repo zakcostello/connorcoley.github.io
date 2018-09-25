@@ -14,7 +14,9 @@ Research Interests
 ======
 I'm generally interested in questions of how data and automation can be used to streamline discovery in the chemical sciences. My PhD work is comprised of two parallel tracks: experimental and data-driven/computational. The former includes the actual construction, control, and use of automated microfluidic reactor platforms for screening and optimizing chemical reactions; the latter includes the development of a data-driven synthesis planning program and <em>in silico</em> strategies for predicting the outcomes of organic reactions.<br> 
 
-I've recently been focused on identifying questions in chemistry and cheminformatics that are answerable by the data we have access to; another equally important problem, however, is how to efficiently conduct experiments to gather the information we would need to answer currently-unanswerable questions.<br>
+I've recently been focused on identifying questions in chemistry and cheminformatics that are answerable by the data we have access to; another equally important problem, however, is how to efficiently conduct experiments to gather the information we would need to answer currently-unanswerable questions. <br>
+
+My future research will work toward a new paradigm of computational assistance for molecular discovery through an interdisciplinary approach combining chemistry, chemical engineering, and computer science in close partnership with experts in applications domains such as chemical biology and human health.
 
 
 Non-Research Interests
