@@ -16,9 +16,9 @@ I'm generally interested in questions of how data and automation can be used to 
 
 I've recently been focused on identifying questions in chemistry and cheminformatics that are answerable by the data we have access to; another equally important problem, however, is how to efficiently conduct experiments to gather the information we would need to answer currently-unanswerable questions. <br>
 
-My future research will work toward a new paradigm of computational assistance for molecular discovery through an interdisciplinary approach combining chemistry, chemical engineering, and computer science in close partnership with experts in applications domains such as chemical biology and human health.
+My future research will work toward a new paradigm of computational assistance for molecular discovery through an interdisciplinary approach combining chemistry, chemical engineering, and computer science in close partnership with experts in application domains such as chemical biology and human health.
 
 
-Non-Research Interests
+Other Interests
 ======
-In my spare time, I like to cook, garden, and try to learn Portuguese. I like traveling and long walks/hikes.
+In my spare time, I like to cook, garden, hike, and practice Portuguese.
