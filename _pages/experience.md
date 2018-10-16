@@ -14,9 +14,9 @@ author_profile: true
 <tr><td colspan="2"><em>MIT, Cambridge, MA</em></td></tr>
 <tr><td colspan="2">
 <ul style="margin-top:0px; padding-top:0px">
-	<li>Developing microfluidic reactor platforms with extensive automation and real-time control to screen and optimize chemical reactions with relevance to pharmaceutical lead generation and library synthesis
+	<li>Developed microfluidic reactor platforms with extensive automation and real-time control to screen and optimize chemical reactions with relevance to pharmaceutical lead generation and library synthesis; in use at Novartis
 </li>
-	<li>Designing and implementing computational approaches to identification of synthetic routes for on-demand flow synthesis of small molecule compounds and other strategies for streamlining drug discovery
+	<li>Designing machine learning approaches to identify synthetic routes for on-demand flow synthesis of small molecule compounds and to streamline pharmaceutical discovery; code deployed at 7 companies for use in active discovery pipelines; public web service used by 300+ chemists
 </li>
 </ul>
 </td></tr>

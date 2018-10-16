@@ -10,10 +10,14 @@ author_profile: true
 <table>
   
   <tr><th>2018</th><td>
+    <a href="https://doi.org/10.26434/chemrxiv.7163189.v1" target="_blank"><u>Coley, C. W.</u>, Jin, W., Rogers, L., Jamison, T. F., Jaakkola, T. S., Green, W. H., Barzilay, R., Jensen, K. F. &ldquo;A graph-convolutional neural network model for the prediction of chemical reactivity&rdquo; <em>ChemRxiv preprint. </em>(<strong>2018</strong>).</a>  <a style="color:blue" href="https://github.com/connorcoley/rexgen_direct" target="_blank">[code]</a> 
+  </td></tr>
+  
+  <tr><th></th><td>
 <a href="http://pubs.rsc.org/en/content/articlelanding/2018/cc/c8cc04650f" target="_blank">Zhu, C., Raghuvanshi, K., <u>Coley, C. W</u>., Mason, D., Rodgers, J., Janka, M. E., Abolhasani, M. &ldquo;Flow chemistry-enabled studies of rhodium-catalyzed hydroformylation reactions.&rdquo; <em>Chem. Comm. </em>(<strong>2018</strong>).</a>
   </td></tr>
   
-    <tr><th></th><td>
+  <tr><th></th><td>
 <a href="https://pubs.acs.org/doi/full/10.1021/acs.accounts.8b00087" target="_blank"><u>Coley, C. W</u>., Green, W. H., Jensen, K. F. &ldquo;Machine learning in computer-aided organic synthesis.&rdquo; <em>Acc. Chem. Res. </em><strong>51</strong>(5), 1281-1289 (<strong>2018</strong>).</a> <a href="http://news.mit.edu/2018/applying-machine-learning-to-challenges-in-pharmaceutical-industry-0517" style="color:blue" target="_blank">[related press]</a>
   </td></tr>
 

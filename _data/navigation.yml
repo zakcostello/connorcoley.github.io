@@ -10,17 +10,23 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Patents"
-    url: /patents/
+  - title: "Awards"
+    url: /awards/
 
   - title: "Presentations"
-    url: /talks/    
+    url: /talks/  
 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Patents"
+    url: /patents/
+
+ 
+
+
     
-  - title: "Awards"
-    url: /awards/
+
   # - title: "CV"
   #   url: /cv/
     
