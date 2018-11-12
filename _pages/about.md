@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About Me"
 excerpt: "About"
 author_profile: true
 redirect_from: 
@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-If you'd like to collaborate or have any questions about my work, grad school, etc., I'm very responsive to <a href="mailto:ccoley@mit.edu">email</a>. 
+I’m a researcher advancing the transition of biology into an engineering discipline. My work has been published in top journals in synthetic biology and control theory, such as Nature Communications and IEEE Transactions on Automatic Control. I solve challenging problems in <b>synthetic biology</b> leveraging my multidisciplinary skill set including <b>machine learning
+</b>, <b>control theory</b>, <b>applied mathematics</b>, and <b>robotic automation</b>. I work at the interface of biological theory and practice so that techniques I develop are rigorously validated. Every project I undertake is in service of creating a world where any organism can be engineered predictably, rapidly, and at low cost.
 
-Research Interests
-======
-I'm generally interested in questions of how data and automation can be used to streamline discovery in the chemical sciences. My PhD work is comprised of two parallel tracks: experimental and data-driven/computational. The former includes the actual construction, control, and use of automated microfluidic reactor platforms for screening and optimizing chemical reactions; the latter includes the development of a data-driven synthesis planning program and <em>in silico</em> strategies for predicting the outcomes of organic reactions.<br> 
+Media
+=====
 
-I've recently been focused on identifying questions in chemistry and cheminformatics that are answerable by the data we have access to; another equally important problem, however, is how to efficiently conduct experiments to gather the information we would need to answer currently-unanswerable questions. <br>
+<b>[2018]</b> I made an appearance on the podcast "This week in Machine Learning and AI". You can listen <a href="https://twimlai.com/twiml-talk-163-predicting-metabolic-pathway-dynamics-w-machine-learning-with-zak-costello/">here</a>.
 
-My future research will work toward a new paradigm of computational assistance for molecular discovery through an interdisciplinary approach combining chemistry, chemical engineering, and computer science in close partnership with experts in application domains such as chemical biology and human health.
+<b>[2018]</b> A recently published <a href='https://www.nature.com/articles/s41467-018-03293-x'>Nature Communications Paper</a> on making hoppy flavored beer from transgenic yeast was recently picked up by the <a href='https://www.nytimes.com/2018/03/20/science/craft-beer-hops.html'>New York Times</a>.
 
 
-Other Interests
-======
-In my spare time, I like to cook, garden, hike, and practice Portuguese.
+Academics
+=========
+For a complete list of my academic publications and their associated statistics see my <a href='https://scholar.google.com/citations?user=VaA3xfAAAAAJ&hl=en'>google scholar profile</a>. My professional history is kept up to date on <a href='https://www.linkedin.com/in/zakcostello/'>linked in</a> and an my up to date CV can be downloaded <a href='files/ZakCostelloCV.pdf'>here</a>. 

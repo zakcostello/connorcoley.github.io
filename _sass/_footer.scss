@@ -6,12 +6,12 @@
   @include full();
   @include clearfix;
   margin-top: 3em;
-  color: mix(#fff, $gray, 25%);
+  color: mix(#fff, $gray, 75%);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: $lighter-gray;
+  background-color: $dark-gray;
   border-top: 1px solid $light-gray;
 
   footer {
@@ -19,6 +19,7 @@
     @include clearfix;
     margin-top: 2em;
     padding: 0 1em 2em;
+	box-shadow: 0 50vh 0 50vh $dark-gray;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
